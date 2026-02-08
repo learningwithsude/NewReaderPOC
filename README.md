@@ -25,3 +25,10 @@ Sources list is fetched from:
 https://newsapi.org/v2/top-headlines/sources?language=en&apiKey=YOUR_KEY
 
 Replace YOUR_KEY with your API key from https://newsapi.org/
+<img width="1290" height="2796" alt="Headlines" src="https://github.com/user-attachments/assets/e5bc2aad-71f9-4037-b831-dd1f1e9bdc36" />
+<img width="1290" height="2796" alt="Webview" src="https://github.com/user-attachments/assets/bd642e3f-8e10-49ef-adce-849061496a5d" />
+
+<img width="1290" height="2796" alt="Sources" src="https://github.com/user-attachments/assets/7ce4a28c-f55e-45eb-9444-6a5c2864eb3d" />
+
+<img width="1290" height="2796" alt="Save" src="https://github.com/user-attachments/assets/495d9869-3ea0-40b3-8243-35fea6b18da0" />
+
