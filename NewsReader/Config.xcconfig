@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  NewsReader
+//
+//  Created by Sudheshna on 8/2/2026.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+NEWS_API_KEY = f17e3ee5040444a8ac7f6abc2e8146a6
